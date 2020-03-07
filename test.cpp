@@ -1,5 +1,9 @@
-#include <iostream.h)
+#include <iostream>
 
-using std namespace
+using namespace std;
 
-printf("Hello This is A Test\n", );
+int main() {
+  cout << "Hello This Is A Test" << endl;
+
+    return 0 ;
+}
